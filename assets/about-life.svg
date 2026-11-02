@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title"><title id="title">About Gaurav</title>
+<style>
+.bg{fill:#070b16}.panel{fill:#0c1324;stroke:#24324d;stroke-width:1.2}
+.blue{fill:#247bff}.red{fill:#ff354f}.white{fill:#f5f7fb}.muted{fill:#a8b4c8}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.display{font-family:Arial,sans-serif;font-weight:800;letter-spacing:-1.5px}
+.small{font-family:Arial,sans-serif}
+</style>
+
+<rect width="1200" height="300" rx="24" class="bg"/><rect x="1" y="1" width="1198" height="298" rx="24" fill="none" stroke="#24324d"/>
+<text x="42" y="48" class="mono blue" font-size="14" letter-spacing="3">01 / ABOUT &amp; INTERESTS</text><text x="42" y="91" class="display white" font-size="32">Curious by default.</text>
+<text x="42" y="126" class="small muted" font-size="17">I enjoy writing code, learning tools and turning ideas</text><text x="42" y="151" class="small muted" font-size="17">into practical projects.</text>
+<g transform="translate(42 190)"><rect width="320" height="62" rx="13" class="panel"/><circle cx="28" cy="31" r="6" class="blue"/><text x="48" y="27" class="small white" font-size="15">Coding</text><text x="48" y="45" class="small muted" font-size="12">Practice and problem solving</text></g>
+<g transform="translate(390 190)"><rect width="350" height="62" rx="13" class="panel"/><circle cx="28" cy="31" r="6" class="red"/><text x="48" y="27" class="small white" font-size="15">Learning new technologies</text><text x="48" y="45" class="small muted" font-size="12">Keep improving, one concept at a time</text></g>
+<g transform="translate(770 60)"><rect width="380" height="192" rx="20" class="panel"/><text x="25" y="35" class="mono blue" font-size="12">CURRENT MINDSET</text><text x="25" y="76" class="display white" font-size="24">Learn → Build</text><text x="25" y="107" class="display white" font-size="24">→ Improve</text><path d="M25 130 H330" stroke="#24324d"/><text x="25" y="157" class="small muted" font-size="13">Building projects is how I learn.</text><rect x="25" y="174" width="280" height="3" rx="2" class="blue"><animate attributeName="width" values="60;280;60" dur="4s" repeatCount="indefinite"/></rect></g></svg>

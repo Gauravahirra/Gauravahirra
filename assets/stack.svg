@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title"><title id="title">Technology stack</title>
+<style>
+.bg{fill:#070b16}.panel{fill:#0c1324;stroke:#24324d;stroke-width:1.2}
+.blue{fill:#247bff}.red{fill:#ff354f}.white{fill:#f5f7fb}.muted{fill:#a8b4c8}
+.mono{font-family:ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.display{font-family:Arial,sans-serif;font-weight:800;letter-spacing:-1.5px}
+.small{font-family:Arial,sans-serif}
+</style>
+
+<rect width="1200" height="300" rx="24" class="bg"/><rect x="1" y="1" width="1198" height="298" rx="24" fill="none" stroke="#24324d"/>
+<text x="42" y="48" class="mono blue" font-size="14" letter-spacing="3">02 / TOOLKIT</text><text x="42" y="91" class="display white" font-size="32">Technologies I work with</text><text x="42" y="121" class="small muted" font-size="15">A focused toolkit for building and understanding software.</text>
+<g transform="translate(42 153)"><rect width="170" height="58" rx="15" class="panel"/><text x="85" y="35" text-anchor="middle" class="mono white" font-size="17">JAVA</text><rect x="185" width="190" height="58" rx="15" class="panel"/><text x="280" y="35" text-anchor="middle" class="mono white" font-size="17">SPRING BOOT</text><rect x="390" width="150" height="58" rx="15" class="panel"/><text x="465" y="35" text-anchor="middle" class="mono white" font-size="17">ASP.NET CORE</text><rect x="555" width="150" height="58" rx="15" class="panel"/><text x="630" y="35" text-anchor="middle" class="mono white" font-size="17">NODE.JS</text><rect x="720" width="170" height="58" rx="15" class="panel"/><text x="805" y="35" text-anchor="middle" class="mono white" font-size="17">REST APIs</text><rect x="905" width="210" height="58" rx="15" class="panel"/><text x="1010" y="35" text-anchor="middle" class="mono white" font-size="17">MYSQL / SQL</text></g>
+<path d="M42 238 H1157" stroke="#24324d"/><circle cx="47" cy="255" r="4" class="blue"/><text x="61" y="260" class="small muted" font-size="13">Also listed on the resume: React.js, Express.js, Hibernate/JPA, Git, GitHub, Postman and Swagger UI.</text></svg>
