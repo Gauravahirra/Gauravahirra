@@ -38,7 +38,7 @@ A social networking application with registration, posts, likes, comments, profi
 ## Connect with me
 
 - [LinkedIn](https://www.linkedin.com/in/gaurav-ahirrao-5b6961231/)
-- [Portfolio](https://gauravahirra.github.io/gaurav-portfolio/)
+- [Portfolio](https://gauravahirra.github.io/gaurav-ahirrao-portfolio/)
 - [GitHub](https://github.com/Gauravahirra)
 
 ---
