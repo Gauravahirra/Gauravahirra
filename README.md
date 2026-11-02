@@ -12,14 +12,6 @@
 
 </div>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/gaurav-ahirrao-5b6961231/">LinkedIn</a>
-  &nbsp; • &nbsp;
-  <a href="https://gauravahirra.github.io/gaurav-ahirrao-portfolio/">Portfolio</a>
-  &nbsp; • &nbsp;
-  <a href="https://github.com/Gauravahirra">GitHub</a>
-</div>
-
 ---
 ## Featured Projects
 
