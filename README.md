@@ -21,11 +21,12 @@ A full-stack academic and administrative platform for Admin, Teacher, Student, a
 
 ### Indian Wedding Management System
 A full-stack wedding management portal covering venue booking, vendor management, guest tracking, and role-based Admin/Client dashboards. Resume-listed stack: React.js, Node.js, Express.js, MySQL, JWT, and REST APIs.
+[Video](https://www.linkedin.com/feed/update/urn:li:activity:7329154593412530177/)
 
 ### Mini Social Feed
 A social networking application with registration, posts, likes, comments, profile management, and User/Admin dashboards. Resume-listed stack: React.js, Tailwind CSS, ASP.NET Core, SQL Server, and REST APIs.
 
-> The latter two project descriptions are based on the uploaded resume. A public repository URL was not confirmed, so no repository link is guessed.
+[Video](https://www.linkedin.com/feed/update/urn:li:activity:7346921778927099905/)
 
 ## Technical Skills
 
