@@ -1,17 +1,18 @@
 
 <div align="center">
 
-![Hero](./assets/hero.svg?v=2)
-
-![About](./assets/about-life.svg?v=2)
-
-![Stack](./assets/stack.svg?v=2)
-
-![Developer ID](./assets/id-dashboard.svg?v=2)
-
 ![Connect](./assets/connect.svg?v=2)
 
 </div>
+
+<div align="center">
+
+[🔵 Open LinkedIn Profile](https://www.linkedin.com/in/gaurav-ahirrao-5b6961231/)
+
+[🔴 Open Portfolio Website](https://gauravahirra.github.io/gaurav-ahirrao-portfolio/)
+
+</div>
+
 
 <p align="center">
   <strong>LET'S CONNECT</strong>
